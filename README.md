@@ -5,7 +5,7 @@ This project differentiates sea-ice with leads from Sentinel-3 satellite imagery
 
 After differentiation, the results will be compared with European Space Agency classifications to verify validity.
 
-This notebook is based on the “Chapter1_Unsupervised_Learning_Methods_Michel.ipynb” notebook provided in the GEOL0069 module in UCL Earth Sciences.
+This notebook is based on the “Chapter1_Unsupervised_Learning_Methods_Michel.ipynb” and the “Chapter1_Unsupervised_Learning_Methods.ipynb” notebooks provided in the GEOL0069 module in UCL Earth Sciences.
 
 ## Before Starting:
 Please mount your Google Drive to Colab:
@@ -53,5 +53,5 @@ Sentinel-3 data: S3A_SR_2_LAN_SI_20190307T005808_20190307T012503_20230527T225016
 Serra Incekara: serra.incekara.22@ucl.ac.uk / serraincekara@gmail.com
 
 ## Notice: 
-- This project is part of an assignment for the Artificial Intelligence for Earth Observation module (GEOL0069) taught in the UCL Earth Sciences Department.
+- This project is part of an assignment for the Artificial Intelligence for Earth Observation module (GEOL0069) taught in the UCL Earth Sciences Department. Part of the code has been sourced from the “Chapter1_Unsupervised_Learning_Methods_Michel.ipynb” and the “Chapter1_Unsupervised_Learning_Methods.ipynb” notebooks.
 
