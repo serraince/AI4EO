@@ -3,7 +3,7 @@
 
 This project differentiates sea-ice with leads from Sentinel-3 satellite imagery and altimetry using the machine learning algorithms K-means and Gaussian Mixture Models (GMM) clustering. The Sentinel-3 satellite sends radar signals to the Earth’s surface, and the signal gets reflected back to the satellite. The signal that is reflected back is called an echo, and the time the echo takes determines the surface elevation and material.
 
-After differentiation, the results will be compared with European Space Agency classifications to verify validity.
+After differentiation, the results will be compared with European Space Agency classifications to verify validity. The Google Colab notebook ends with a plot of standard deviation and mean of the leads and sea-ice. There is also a confusion matrix for comparison with the ESA.
 
 This notebook is based on the “Chapter1_Unsupervised_Learning_Methods_Michel.ipynb” and the “Chapter1_Unsupervised_Learning_Methods.ipynb” notebooks provided in the GEOL0069 module in UCL Earth Sciences.
 
