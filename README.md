@@ -1,7 +1,7 @@
 # AI4EO
 # Unsupervised Classification: Sea-ice and Leads
 
-This project differentiates sea-ice with leads from Sentinel-3 satellite imagery and altimetry using the machine learning algorithms K-means and ### Gaussian Mixture Models (GMM) clustering. The Sentinel-3 satellite sends radar signals to the Earth’s surface, and the signal gets reflected back to the satellite. The signal that is reflected back is called an echo, and the time the echo takes determines the surface elevation and material.
+This project differentiates sea-ice with leads from Sentinel-3 satellite imagery and altimetry using the machine learning algorithms K-means and Gaussian Mixture Models (GMM) clustering. The Sentinel-3 satellite sends radar signals to the Earth’s surface, and the signal gets reflected back to the satellite. The signal that is reflected back is called an echo, and the time the echo takes determines the surface elevation and material.
 
 After differentiation, the results will be compared with European Space Agency classifications to verify validity.
 
